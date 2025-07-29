@@ -1,0 +1,5 @@
+Num1=int(input("Enter the number: "))
+square=(Num1*Num1)
+cube=(Num1*Num1*Num1)
+print("your calculated square is: ",square)
+print("your calculated cube is: ",cube)
